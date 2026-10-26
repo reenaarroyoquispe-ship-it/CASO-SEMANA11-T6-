@@ -129,7 +129,7 @@ namespace CASO_SEMANA11_T6_
                 Console.WriteLine("[3] Cargar registros desde archivo");
                 Console.WriteLine("[4] Mostrar registros");
                 Console.WriteLine("[5] Salir");
-                opc = Validador.LeerEntero("Seleccionar opciom[1-5]: ");
+                opc = Validador.LeerEntero("Seleccionar opcion[1-5]: ");
                 switch (opc)
                 {
                     case 1:
